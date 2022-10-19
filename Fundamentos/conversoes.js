@@ -12,5 +12,10 @@ console.log(numero === numeroString);
 
 console.log(numero + numeroString);
 
+//Number()
+//String()
 console.log(numero + Number(numeroString));
+
+//Conversão explicita
+
 
